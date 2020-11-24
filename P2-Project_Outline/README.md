@@ -29,8 +29,10 @@ A website to provide users with a "one-stop-shop" for accessing local producers 
 -SQL
 
 ### What I'll Have to Learn
--Google API - Location search/listing? \
--Shopping Cart? -RSS Feeds -Deploying -Complimenting Java with JavaScript (why use Angular WITH Springboot) 
+-Google API - Location search/listing?
+
+-Shopping Cart? -RSS Feeds -Deploying -Complimenting Java with JavaScript (why use Angular WITH Springboot)
+
 -How to use Java on the front end
 
 ### Project Tracker
