@@ -8,7 +8,6 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
 
 ### Project Tracker
 
@@ -16,4 +15,4 @@ https://trello.com/b/yCqEiAS2/2020-november-liftoff-megans-group
 
 ### Project Repo Link
 
-
+https://github.com/kathryntucker94/local-produce-1
