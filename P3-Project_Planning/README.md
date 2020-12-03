@@ -8,6 +8,10 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
+* https://github.com/kathryntucker94/liftoff-assignments/blob/master/20201130_211210.jpg
+* https://github.com/kathryntucker94/liftoff-assignments/blob/master/20201130_211223.jpg
+* https://github.com/kathryntucker94/liftoff-assignments/blob/master/20201130_211229.jpg
+* https://github.com/kathryntucker94/liftoff-assignments/blob/master/Wireframes.pdf
 
 ### Project Tracker
 
